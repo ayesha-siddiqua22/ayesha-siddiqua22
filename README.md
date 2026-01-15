@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hi 👋🏻 💫 About Me:
 I am a final-year B.Tech Computer Science and Engineering student with a strong interest in web development, cybersecurity, and AI/ML. I am currently focused on strengthening my fundamentals and understanding how real-world software systems are designed and built.<br>I enjoy learning by practicing consistently, exploring GitHub projects, and building small applications, which helps me improve my coding, problem-solving, and analytical skills step by step.<br>At present, I am learning HTML, CSS, and JavaScript, along with Git and GitHub for version control and collaboration. I am also exploring the basics of Artificial Intelligence and Machine Learning, and learning fundamental cybersecurity concepts to better understand secure and intelligent systems.<br>I am motivated to continuously grow as a developer, learn from the tech community, and contribute to beginner-friendly projects as I gain more experience.
 
 
@@ -16,7 +16,7 @@ I am a final-year B.Tech Computer Science and Engineering student with a strong 
 ![](https://github-profile-trophy.vercel.app/?username=ayesha-siddiqua22 &theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical &theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayesha-siddiqua22 &limit=5&theme=blueberry&combine_all_yearly_contributions=true)
