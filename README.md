@@ -2,7 +2,7 @@
 ## 🌐 Reach Me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/echodreams78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayesha-siddiqua-12595a23a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/siddiquaayesha238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddiquaayesha238@gmail.com)
 
-###💫About Me:
+**💫About Me**
 <br>I am a final-year B.Tech Computer Science and Engineering student with a strong interest in web development, cybersecurity, and AI/ML. I am currently focused on strengthening my fundamentals and understanding how real-world software systems are designed and built.<br>I enjoy learning by practicing consistently, exploring GitHub projects, and building small applications, which helps me improve my coding, problem-solving, and analytical skills step by step.<br>At present, I am learning HTML, CSS, and JavaScript, along with Git and GitHub for version control and collaboration. I am also exploring the basics of Artificial Intelligence and Machine Learning, and learning fundamental cybersecurity concepts to better understand secure and intelligent systems.<br>I am motivated to continuously grow as a developer, learn from the tech community, and contribute to beginner-friendly projects as I gain more experience.
 
 # 💻 Tech Stack:
