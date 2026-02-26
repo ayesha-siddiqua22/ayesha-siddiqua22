@@ -17,7 +17,7 @@ These projects have deepened my understanding of intelligent systems, secure app
 
 ### 🛠️ Skills & Tools
 - HTML, CSS, JavaScript  
-- Python (Basics)  
+- Python
 - Git & GitHub  
 - Fundamentals of Cybersecurity  
 - Basics of AI/ML  
